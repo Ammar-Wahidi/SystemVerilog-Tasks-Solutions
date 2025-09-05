@@ -1,0 +1,18 @@
+{C:/Users/Ammar Wahidi/Desktop/ENG.ASU/@Digital Domain/Courses/Verification Sherif's Diploma (IP Level)/Tasks/Task 2 Compiler directives/task2.sv} {1 {vlog -work work -vopt -sv -stats=none {C:\Users\Ammar Wahidi\Desktop\ENG.ASU\@Digital Domain\Courses\Verification Sherif's Diploma (IP Level)\Tasks\Task 2 Compiler directives\task2.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module task2
+
+Top level modules:
+	task2
+
+} {} {}} {C:/Users/Ammar Wahidi/Desktop/ENG.ASU/@Digital Domain/Courses/Verification Sherif's Diploma (IP Level)/Tasks/Task 2 Compiler directives/task2h.svh} {1 {vlog -work work -vopt -sv -stats=none {C:/Users/Ammar Wahidi/Desktop/ENG.ASU/@Digital Domain/Courses/Verification Sherif's Diploma (IP Level)/Tasks/Task 2 Compiler directives/task2h.svh}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+
+} {} {}} {C:/Users/Ammar Wahidi/Desktop/ENG.ASU/@Digital Domain/Courses/Verification Sherif's Diploma (IP Level)/Tasks/Task 3 Data Types/enumerations.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Users/Ammar Wahidi/Desktop/ENG.ASU/@Digital Domain/Courses/Verification Sherif's Diploma (IP Level)/Tasks/Task 3 Data Types/enumerations.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module enumerations
+
+Top level modules:
+	enumerations
+
+} {} {}}

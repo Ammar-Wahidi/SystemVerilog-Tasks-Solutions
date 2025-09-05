@@ -1,0 +1,11 @@
+Q1- What is the difference between objects, components and transaction ?
+
+-- Objects: Used for stimulus modeling (transactions)
+            NO hierarchy 
+            During the simulation, many objects will be created when required, and once used they will be disappeared
+
+-- components: Used to build the test bench structure 
+               Model TB hierarchy
+               Static-like (Quasi-Static) structure that are created during run time & they are presistent throughout the simulation.
+
+-- transaction: it is object, uvm seq_item extends transaction parent class .
